@@ -1,0 +1,32 @@
+{
+
+  "name": "demo2-nodejs",
+
+  "version": "1.0.0",
+
+  "description": "this is my second project",
+
+  "main": "main.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "start": "node main.js"
+
+  },
+
+  "author": "Rimsha Asghar",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "url": "^0.11.4"
+
+  },
+
+  "devDependencies": {}
+
+}
+
